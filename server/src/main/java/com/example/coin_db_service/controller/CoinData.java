@@ -15,4 +15,6 @@ public class CoinData {
     public Double getTradePrice(){
         return this.tradePrice;
     }
+
+    
 }
